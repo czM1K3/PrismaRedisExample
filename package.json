@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@prisma/client": "^3.5.0",
+    "ioredis": "^4.28.0",
+    "prisma": "^3.5.0",
+    "prisma-redis": "^1.0.2"
+  }
+}
